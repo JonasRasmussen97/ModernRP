@@ -1,0 +1,12 @@
+"modernrp"
+{
+	"base"		"base"
+	"title"		"Modern RP"
+	"maps"		"^rp_evocity_"
+	"menusystem"	"1"
+
+	"settings"
+	{
+		// TODO: put some settings here
+	}
+}
